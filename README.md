@@ -2,7 +2,7 @@
 
 Desarrollador web en **West Palm Beach, Florida**. Diseño y desarrollo páginas web, tiendas online, invitaciones digitales y logos para negocios, marcas y personas, en **español e inglés**.
 
-🌐 **Mi web:** https://willdev-landing.willdev-landing.workers.dev
+🌐 **Mi web:** https://willnet.dev
 
 ## ⭐ Proyecto principal: [willnet-landing](https://github.com/willgo-dev/willnet-landing)
 
@@ -35,4 +35,4 @@ Hecha con **HTML, JavaScript y Tailwind CSS v4**, animada con **GSAP** y publica
 ### English
 
 Hi, I'm **Willder Gómez** (**WillNet**), a web developer based in West Palm Beach, Florida. I design and build websites, online stores, digital invitations and logos, in English and Spanish.
-My main project is **[willnet-landing](https://github.com/willgo-dev/willnet-landing)**, the bilingual landing page of WillNet, live at https://willdev-landing.willdev-landing.workers.dev.
+My main project is **[willnet-landing](https://github.com/willgo-dev/willnet-landing)**, the bilingual landing page of WillNet, live at https://willnet.dev.
